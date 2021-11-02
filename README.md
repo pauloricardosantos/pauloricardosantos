@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Paulo Ricardo 👋
 
-- 🌱 Atualmente estou estudando engenharia de software
-- 😎 Fun fact: caí de paraquedas e estou desbravando esse mundo louco!
-- 📫 Contato: pauloricar.adm@gmail.com
+  Entusiasta por tecnologia, estudando desenvolvimento web fullstack na Driven.Education
+  📫 Contato: pauloricar.adm@gmail.com
 
 <div>
   <a href="https://github.com/pauloricardosantos">
