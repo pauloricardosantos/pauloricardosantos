@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Paulo Ricardo 👋
 
-  Entusiasta por tecnologia, estudando desenvolvimento web fullstack na Driven.Education<center>
+  Entusiasta por tecnologia, estudando desenvolvimento android<center>
   <br>
   <br>
  <div align="center">
@@ -12,8 +12,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_EnM6WFkZ.png">
 </div>
    
   
